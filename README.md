@@ -44,7 +44,7 @@ This project focuses on analyzing application-related data using Tableau. It dem
 3. Explore the available dashboards and visualizations.
 
 ## Project Outcome
-Developed a Tableau-based application insights reporting project to explore application data and communicate metrics through interactive visualizations.
+Developed a Tableau based application insights reporting project to explore application data and communicate metrics through interactive visualizations.
 
 ## Conclusion
-This project demonstrates practical Tableau skills in data analysis, dashboard development, KPI reporting, and data visualization.
+This project demonstrates practical Tableau skills in data analysis, dashboard development, KPI reporting and data visualization.
